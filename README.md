@@ -8,7 +8,6 @@ Software Engineer
 
 - ⚡ Fun fact: I play football.
 - Social Presence
-- <br>
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harish-r-083489259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/heyy.harxh17?igsh=MXRkZWtpdmxxcjBxMw==)
 
 ### I code in
