@@ -2,7 +2,7 @@
 
 Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://portfoli0-hari.netlify.app/)                                                 
+- 🔭 Here's my [portfolio](https://portfolio-harii.netlify.app/)                                                 
 - 🌱 I’m currently learning Lamp stack and Integrating Linux servers to my workflow
 - Engineering at [Park College Of Technology](http://pct.ac.in/)
 
