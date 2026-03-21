@@ -6,9 +6,9 @@ Software Engineer
 - 🌱 I’m currently learning Lamp stack and Integrating Linux servers to my workflow
 - Engineering at [Park College Of Engineering and Technology](http://pct.ac.in/)
 
-- ⚡ Fun fact: I play football.
+- ⚡ Fun fact: I play football & I do fashion.
 - Social Presence
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harish-r-083489259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/heyy.harxh17?igsh=MXRkZWtpdmxxcjBxMw==)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harish-r-083489259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/h4rzzy_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
