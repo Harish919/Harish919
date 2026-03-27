@@ -20,7 +20,7 @@ Software Engineer
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
 
-![Harish919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish919&show_icons=true&theme=vue-dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Harish919&show_icons=true&theme=vue-dark)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harish919&bg_color=121212&color=f4f0f4&line=4c9e5a&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
